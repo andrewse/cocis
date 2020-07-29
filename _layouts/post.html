@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="article">
+    <article class="article__content post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+            <figure>
+                <img src="https://assets.rockpapershotgun.com/images/2018/07/call_of_cthulhu-b.jpg" />
+                <figcaption>He calls to you from R'lyeh</figcaption>
+            </figure>
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+</div>
