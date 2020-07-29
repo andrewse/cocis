@@ -2,7 +2,7 @@
 layout: post
 title:  "Previously, one unlikely beginning"
 date:   2020-07-29 20:44:24 +1000
-categories: jekyll update
+categories: sessions
 ---
 > Little by name, not by nature 
 > 

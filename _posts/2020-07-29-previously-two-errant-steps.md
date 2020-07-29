@@ -2,7 +2,7 @@
 layout: post
 title:  "Previously, two errant steps"
 date:   2020-07-29 21:44:24 +1000
-categories: journal
+categories: sessions
 ---
 
 - Went to the asylum
