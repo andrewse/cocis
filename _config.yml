@@ -2,8 +2,8 @@ title: "Call of Cthulhu: Incandescent Slumber"
 email: cocis@andrewse.com
 description: >-
   A perilous campaign into the mythos of the Call of Cthuthlu 7th Edition.
-baseurl: "https://andrewse.github.io/cocis"
-url: "https://andrewse.github.io/cocis"
+baseurl: "/cocis"
+url: "https://andrewse.github.io"
 
 # Build settings
 theme: minima
