@@ -1,63 +1,48 @@
 ---
 layout: post
-title:  "Previously, two errant steps"
-date:   2020-07-29 21:44:24 +1000
+title: 'Previously, two errant steps'
+date: '2020-07-29 21:44:24 +1000'
 categories: sessions
+published: true
 ---
 
-- Went to the asylum
-- Visted the house, explored upstairs, poilce officer
-- Tugging at the satchel
-- descend into the basement and fell down the stairs
-- Francesco made a play for the knife
+Our investigators, delved into the histories of the `Chapel of Contemplation` and one **Mr. Walter Corbit**. Uncovered some some terrible truths and delved, perhaps a little too greedily, into the secrets of the Mythos.
 
-As the investigators stand on the side walk, pondering their next detination, a large group of people begin to gather around chappel of contemplation. First a few, then a few dozen and before long the investigators were lost in a sea of burning torches and even the occassional pitchfork.
+As the investigators stood on the side walk, pondering their next detination, a large group of people begin to gather around chappel of contemplation. First a few, then a few dozen and before long the investigators were lost in a sea of burning torches and even the occassional pitchfork.
 
-The investigators kept themselves poised, watching the crowd with an uneasy eye until <span class="npc"></span>**Mr. Dooley** made his way through the crowd with a Fire Marshall in tow.
+The investigators kept themselves poised, watching the crowd with an uneasy eye until **Mr. Dooley** made his way through the crowd with a Fire Marshall in tow.
 
-> Alright folks we’ve got got Teddy here hand he’s given us the go ahead, we get get rid of this cursed place once and for all. 
-> 
-> &mdash; Mr. Doley
+As the flames of the `Chapel of Contemplation` streak across the eyes of the crowd, the investigators used this convenient distraction to eek their way to the back of the pressing throng. Extricating themselves and making their way to `Corbitt House`.
 
-As the flames of the <span class="location"></span>**Chapel of Contemplation** streak across the eyes of the crowd, the investigators used this convenient distraction to eek their way to the back of the pressing throng. Extricating themselves and making their way to <span class="location"></span>**Corbitt House**.
+In the forboding presence of the house the investigators decided that with eyes elsewhere this would be a good time to to expore the house further. With all of the party in tow, Jack went to knock on the door, and with his first trike of the brass eye shaped knocker, the door creaked open.
 
-In the forboding presence of the house
+The crew took their time as they enter the narrow corridor of the house, inching forward covering each other with military precision. That was until they were called from outside by a police officer.
 
-Go to knock on the door door creaks open
+When asked what they were doing, **Frank** was quick to point out that they were afraid that someone was trapped upstairs...and that he was looking for his gun.
 
-<span class="pc"></span>Dr callhan feels a sense keeping him stay (POW check) police office shows upstairs police office falls down sairs closes the house
-
-<span class="spell"></span>*libre ivonis* 36 weeks
-
-every time the book reveals something to you you make a sanity check +2 +4 to cthulhu mythos as long as you have it with you
-
-> It’s a nice gun so nice you’d like it 
+> It’s a nice gun, so nice you’d want it if you saw it. 
 >
-> &mdash; Jack Ritter
+> &mdash; Frank Ritter
 
-Police telling
+As they were ushered from the premesis, **Dr Callhan** felt a presence drawing him further into the house. Wheras the police officer, whilst looking around upstairs, returned hurried to the foyer and announcing that the house was to be shuttered.
 
-<span class="npc"></span>**Dr. Price** at the sanitarium more progressive in his treatments has had success with treatments that are progressive in treatment
+With the increased police presence at the house, the investigators took the time to seek out the last owners of `Corbitt House` the Mancario family, specifically the only surviving parent. **Vincent Mancario** committed at Roxbury sanitarium.
 
-<span class="pc"></span>**Jack** sees somethign suspicious in Dr vincent price lock the office door
+Upon passing through the rusty gates of the sanitarium, the investigators met with the attending alienist, one **Dr. Price**. The peculiur **Dr. Price** is well known as being quite progressive in his treatments, having had some succes in treating those most extreme of cases. He was pressed fro time, having had taken on more patients of recent years.
 
-vincent siting and staring into the sun
+Despite his charming demeanour, **Jack** was not convinced that the doctor was on the up and up and wanted to poke around the good doctor's office for more info. 
 
-wanting to get the bible
+Whilst the others went to visit **Vincent**, Jack tried to ease the lock to the office, not having much luck he pushed his luck but broke his favourite set of picks in the lock, leaving a sure sign that that someone was there. 
 
-frank wants to be the pope with teh robe for vincent
+> Oh you must send me some information on this, Rosenthrall technique.
+>
+> &mdash; Dr. Callahan to Dr. Price
 
-he who bulds his house on sand is forever cursed
+**Dr Callahan** and **Dr. Price** struk up a converastion about all those that he had helped, especially those who had...encounters. Though **Dr. Price** wouldn't elaborate further.
 
-jack going to the office of doctor vincent
+Whilst this was happening, **Frank**, **Elliot**, and **Igor** were talking with **Vincent** but he seems to be quoting scripture for the investigators.
 
-pick the lock of dr vincent pushed teh roll break the lock and failed twice cound’d strength check the door
-
-Dr callahan talking with vincent rosen thrall method
-
-difficult to help those that have seen this
-
-Dr callahan give details to Dr VIncent for future hook
+Thinking that there was more to all this talk, **Frank** had a flash of inspiration. Grathering a white curtain, fashining it into a robe, grabbing a golden curtain rod, and the closest chef's hat, **Frank** made his best *Holy Father* impersonation.
 
 > ‘Does he always act like this?’
 > 
@@ -65,52 +50,30 @@ Dr callahan give details to Dr VIncent for future hook
 > 
 > — Dr Price to Jack Little
 
-<span class="npc"></span>Dr Price notices <span class="pc"></span>frank dresed as the pope Frank says Pom spirtius as the pope
+Perhaps it was all the staring into the Sun but **Vincent** wasn't able to recognise **Frank** as his divine father. **Frank** tried to use this to his advangate to sneak a peak at **Vincent's** bible but with everyone looking on he wasn't able to make it happen.
 
-> By his own hand, he will be worsened.
+It was at this point that, drifting in and out of focus, **Vincent** cried out one final quote in anguish before, exhausted by his effort, he slumps into his chair and withdraws completely.
+
+> He who bulds his house on sand is forever cursed, by his own hand, he will be worsened.
 > 
 > &mdash; Vincent Mancario
 
-City council to get the plans for the building plans
+Of all the passages he had quoted til this point, none of the investigators were aware of any scriptures that used that particular verse.
 
-it’s SUnday, churchjes congregations aren’t as large as what you would expect
+Feeling none the wiser about what awaited them, the investigators used the remaineder of their day to visit the city council to find the building plans of `Corbitt House`. Nothing struck them as immediately out of the ordinary, but the unusual small size of the baement had the investigators theorising a few possible scenarios.
 
-go to ge tthe plans to walther corbitts house
+> But why would someone want to be burried in their house? 
+> 
+> &mdash; Blake Elliot
 
-talk about the house
+That night **Dr. Callahan** became curious about why specifically his statchel had been weighing him down inside the house whereupon closer inspection, he discovered that he caried the `Liber Ivonis`. A rare occult tome that would require some futher study to fully comprehend.
 
-why would someone want to be burried in their home
+The next day at daybreak, feeling emboldened in their recent experiences, the investigators made their way back to `Corbitt house`, breaking through the hastily strung police tape and began exploring the house anew.
 
-somethign that they rely on and often in pursuit of something else
+Whilst exploring the house, the investigators began to have a growing sense of unease as more and more unusual phenomena occured. Odd smells, sights, and flying furniture all assaulted the investigators, and in the case of **Jack**, **Dr. Callahan**, and **Frank** a catapulting bed further enforced the case for the haunting of `Corbitt House`.
 
-jerry can picked up
+Making their way to the basement, the investigators set about to test their theories but the precaious stairs, seemingly of a mind of their own, made the downwards journey faster than the investigators would have cared for, causing some damage.
 
-police tape at the front of the building
+Groping in the dim light, **Frank** came across an ornate dagger, and thinking this would be a perfect opportunity to test his occular reflexes, he pulled it close to his ear. It was at this point that the knife began to twist in his hand before it was thrown accross the room.
 
-curtains blowing without much of a breeze
-
-kick the door and it opens and it stays
-
-frank pops open abottle of wine smell rancid things in the bottle of wine
-
-dr callahna sees stiars moving as if they are breathin
-
-The bed attack misses
-
-people in the room
-
-wine was normal
-
-dr callahan was excited
-
-fall to the bottom of the stairs from teh top
-
-Frank tried to lift the knie by listenting to it twisting it’s
-
-throws the knife
-
-knife rises to point at frank
-
-steel trash can in the centre of the floor
-
-lights go out
+Just as the knife began to rise, being briefly illuminated by the swinging globe suspended from the ceiling, all the lights in the house became dark, and the investigators heard a scratching from within the walls.
