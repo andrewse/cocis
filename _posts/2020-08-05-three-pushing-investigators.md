@@ -5,7 +5,7 @@ date: '2020-08-05 21:44:24 +1000'
 categories: sessions
 published: true
 ---
-Shrouded in darkness, our investigators had only a momentary glance of a floating knife before **Dr. Earnest Callahan** and **Jack LIttle** remembered that they had left the stove on, and bolted up the stairs and out onto the terrace of the house. Both feeling mentally exhausted.
+Shrouded in darkness, our investigators had only a momentary glance of a floating knife before **Dr. Earnest Callahan** and **Jack Little** remembered that they had left the stove on, and bolted up the stairs and out onto the terrace of the house both feeling exhausted.
 
 While the other two investigators were outside, **Frank Ritter**, **Darcey Hedgeson**, **Blake Elliot**, and **Igor Grimsbane** stood firm against the glint of rust coloured iron and the encroucing darkness.
 
